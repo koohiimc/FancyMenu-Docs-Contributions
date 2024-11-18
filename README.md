@@ -18,6 +18,8 @@ It's okay to use images, but no embedded videos please.
 
 If you’d like to contribute to the documentation on a paid basis, that’s absolutely fine! Simply send me a Discord DM (@keksuccino) to get started.
 
+Since I can’t accept an unlimited amount of paid pages, it’s important to contact me first!
+
 ## Pay per Section
 
    - Payment starts at **$15 per section**.
